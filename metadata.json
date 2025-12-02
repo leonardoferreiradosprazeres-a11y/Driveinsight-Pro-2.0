@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 2 atualização - Driveinsight Pro 2025",
+  "description": "A simulation of the DriveInsight PRO mobile app. It analyzes ride-share screenshots (Uber/99) using Gemini Vision to calculate real-time profitability metrics based on fuel costs per minute.",
+  "requestFramePermissions": []
+}
